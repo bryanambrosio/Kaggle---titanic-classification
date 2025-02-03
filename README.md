@@ -5,6 +5,7 @@
 Este repositório contém minha solução para o desafio "Titanic - Machine Learning from Disaster" do Kaggle.
 
 ## 📂 Estrutura do Projeto
+- `api/` → Código da API.
 - `data/` → Conjunto de dados (*train.csv* e *test.csv*).
 - `notebooks/` → Notebooks Jupyter para análise exploratória e modelagem.
 - `src/` → Scripts Python para processamento e construção do modelo.
